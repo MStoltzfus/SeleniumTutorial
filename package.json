@@ -18,5 +18,8 @@
   "homepage": "https://github.com/bcwalnja/SeleniumTutorial#readme",
   "dependencies": {
     "selenium-webdriver": "^4.7.1"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.1"
   }
 }
